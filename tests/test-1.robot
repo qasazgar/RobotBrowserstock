@@ -7,7 +7,7 @@ Test Teardown   Close Session
 
 
 *** Variables ***
-${website_url}=     https://bstackdemo.com
+${website_url}=     https://panel.snappxtage.ir/
 &{test_caps}        browser=chrome
 
 
